@@ -44,7 +44,7 @@ cat <<EOF > build-output/index.html
   <div class="container">
     <h1>Hi, I'm Vigneshwar 👋 from Jenkins build</h1>
     <p>.NET & DevOps Engineer </p>
-    <p>🚀 Skilled in Azure, AWS, Docker, Jenkins, and Angular</p>
+    <p>🚀 Skilled in .Net, Azure, AWS, Docker, Jenkins, and Angular</p>
     <p>
       <a href="https://github.com/VigneshVicky29" target="_blank">View My GitHub</a>
     </p>
@@ -52,7 +52,6 @@ cat <<EOF > build-output/index.html
 </body>
 </html>
 EOF
-
 
 
 
