@@ -54,6 +54,7 @@ cat <<EOF > build-output/index.html
 EOF
 
 
+
 echo "✅ HTML portfolio created at build-output/index.html"
 echo "Build triggered at $(date)"
 
