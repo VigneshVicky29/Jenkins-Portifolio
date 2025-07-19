@@ -58,5 +58,3 @@ EOF
 
 echo "✅ HTML portfolio created at build-output/index.html"
 echo "Build triggered at $(date)"
-
-Build triggered at Sun Jul 20 00:29:30 IST 2025
